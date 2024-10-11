@@ -1,8 +1,8 @@
 # Data Survey Power BI Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/d0ab403c-99d5-436a-adb9-e974ab708d3f/9f152061d8eb83869a4c?experience=power-bi
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/d0ab403c-99d5-436a-adb9-e974ab708d3f/9f152061d8eb83869a4c?experience=power-bi](https://app.powerbi.com/groups/me/reports/d0ab403c-99d5-436a-adb9-e974ab708d3f/9f152061d8eb83869a4c?experience=power-bi)
  
- ![DashboardSurvey](https://github.com/user-attachments/assets/4f47f818-69f8-4928-a7f2-0e1eb90d7988)
+![PinkDashboard](https://github.com/user-attachments/assets/20a90278-1a87-4679-b53e-e7f9b133257e)
 
 
 ## Project Details
