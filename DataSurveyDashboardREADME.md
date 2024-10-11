@@ -14,21 +14,22 @@ This is a Data Survey Dashboard which focuses on professionals working in variou
 Tracking the number of survey takers and categorize them by country.
 Analyzing the distribution of roles across different regions (countries such as the U.S., Canada, India, etc).
 
-![surveytakers](https://github.com/user-attachments/assets/c811070d-b6a6-494c-8c8d-daf7f6be6766)
+![suverytakerbycountry](https://github.com/user-attachments/assets/cc634639-83e2-4b11-85a2-656e36e2ab1c)
 
 
 ### Comparing Salary Information by Country and Job Role
 Displaying average salaries by country and compare the earnings of various data roles (data analysts, data engineers, etc.).
 Showing how salary trends vary between countries and between job titles.
 
-![salarybycountryjobtitle](https://github.com/user-attachments/assets/1cb87c62-d691-44ba-8662-386c0fa1372f)
+![salaryPerCountry](https://github.com/user-attachments/assets/c12da8f2-8040-470a-96d5-6bdb05febf90)
+![salaryByJobrole](https://github.com/user-attachments/assets/4ae5db8c-a7cf-4ca4-b306-c9f1dc855489)
 
 
 ### Measuring Job Satisfaction
 Assessing the satisfaction of survey participants regarding their salary (shown through an average score of "4.27" in the dashboard).
 Evaluate satisfaction with work-life balance (average score of "5.74").
 
-![gauge](https://github.com/user-attachments/assets/61a2e1aa-82bb-4494-a946-eb1264279fdb)
+![gauge](https://github.com/user-attachments/assets/3ce1ab65-91ce-45fe-9f5e-b5913f81bf8c)
 
 ### Analyzing Age Distribution
 Capturing and displaying the average age of survey takers (29.87 years in the given dashboard).
