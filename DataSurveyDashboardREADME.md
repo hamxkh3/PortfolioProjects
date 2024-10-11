@@ -31,9 +31,6 @@ Evaluate satisfaction with work-life balance (average score of "5.74").
 
 ![gauge](https://github.com/user-attachments/assets/3ce1ab65-91ce-45fe-9f5e-b5913f81bf8c)
 
-### Analyzing Age Distribution
-Capturing and displaying the average age of survey takers (29.87 years in the given dashboard).
-Provide insights into how career level and salary satisfaction might vary with age.
 
 ## Outcomes
 
